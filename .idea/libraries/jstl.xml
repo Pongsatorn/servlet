@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jstl">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Softplus/Servlet/Trainer/TrainLab/WebContent/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Softplus/Servlet/Trainer/TrainLab/WebContent/WEB-INF/lib/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
